@@ -1,4 +1,4 @@
-# Hello World!, I'm Ebenezer , a Fullstack Developer and CS student👋:
+# Hello,I'm Ebenezer , a Fullstack Dev👋:
 
 
 
