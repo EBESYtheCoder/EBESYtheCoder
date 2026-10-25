@@ -13,6 +13,6 @@ I work across backend development, web applications, and data-driven systems, wi
 
 ### Technologies
 
-`Python` · `C++` · `JavaScript` · `SQL` · `React` · `Node.js` · `PostgreSQL` · `MongoDB` · `Git`
+`Python` · `C++` · `JavaScript` · `Java` . `SQL` · `React` · `Node.js` · `PostgreSQL` · `MongoDB` · `Git`
 
 [Portfolio](https://nzombe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nzombeebenezer/) · [Email](mailto:nzombeebenezer@gmail.com)
